@@ -97,7 +97,7 @@
 >
 >INSERT INTO `cron` VALUES ('1', '0/5 * * * * ?');
 
-然后在项目中的application.yml 添加数据源：
+然后在项目中的`application.properties`添加数据源：
 
 ```properties
 #application.properties 配置如下：
