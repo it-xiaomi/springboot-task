@@ -6,6 +6,9 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 import java.time.LocalDateTime;
 
+/**
+ * 注释
+ */
 @Configuration
 @EnableScheduling
 public class CompleteScheduleConfig extends SchedulingConfigurerRealization {
